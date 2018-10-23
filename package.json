@@ -1,0 +1,13 @@
+{
+  "name": "mass-inflation",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "highland": "^2.13.0",
+    "lodash.trim": "^4.5.1",
+    "stellar-sdk": "^0.8.0"
+  }
+}
